@@ -34,11 +34,13 @@ Additionally the following brands have been reported to also work with this inte
 - [Inspired Shades](https://www.inspired-shades.com/)
 - [iSmartWindow](https://www.ismartwindow.co.nz/)
 - [Krispol](https://krispol.eu/en/drives/)
+- [Linx](https://linxautomation.com.au/)
 - [Madeco](https://www.madeco.fr/)
 - [Martec](https://www.martec.co.nz/)
 - [Motionblinds](https://motionblinds.com/)
 - [Raven Rock MFG](https://www.ravenrockmfg.com/)
 - [ScreenAway](https://www.screenaway.com.au/)
+- [Smart Rollo (SIRO)](https://smart-rollos.de/)
 - [Smartblinds](https://www.smartblinds.nl/)
 - [Smart Home](https://www.smart-home.hu)
 - [Uprise Smart Shades](http://uprisesmartshades.com)
@@ -54,6 +56,11 @@ The following bridges are reported to work with this integration:
 - D1554 Brel Home USB plug
 - Brel HUB-03
 - Acomax FX-I 620 Bridge Maxi
+- Linx Hub
+- Linx Hub Mini
+- Linx Hub USB
+- SIRO Connect SI7002
+- SIRO Connect SI7005
 
 {% include integrations/config_flow.md %}
 
